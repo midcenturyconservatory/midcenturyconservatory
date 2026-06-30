@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mid Century Conservatory
 
-<!--
-**midcenturyconservatory/midcenturyconservatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Static landing page for Mid Century Conservatory.
 
-Here are some ideas to get you started:
+## Publish with GitHub Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Upload the contents of this folder to a public GitHub repository, then enable GitHub Pages from the repository settings.
+
+The `CNAME` file is set to:
+
+```text
+www.midcenturyconservatory.com
+```
